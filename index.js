@@ -2,8 +2,12 @@ let userScore = 1
 let minRange = 1
 let maxRange = 2
 const space = () => console.log('  ')
+
 console.log('Welcome to the guessing game task written by Ubong Jacob for a zuri task')
 space()
+console.log('⚠ Note always click the ENTER key after your input')
+space()
+
 const username = prompt('Please enter your Username')
 
 function getRandomNumberFromMinToMax(min, max) {
@@ -45,7 +49,7 @@ function range() {
   const randomNum = getRandomNumberFromMinToMax(minRange, maxRange)
 
   space()
-  const userInput = prompt(`${username} Please enter your prediction with the range of ${minRange} and ${maxRange}`)
+  const userInput = prompt(`${username} Please enter your prediction between the range of ${minRange} to ${maxRange}`)
   space()
   if (userInput == randomNum) success()
   else failed(randomNum, true)
