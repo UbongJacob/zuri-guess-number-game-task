@@ -13,9 +13,8 @@ Zuri guess number task is a NodeJs Command Line Interface (CLI) game built in ac
 
 ### Contact or Connect with me:
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/ubonggjacob) or [Linkedin](https://www.linkedin.com/in/ubonggjacob)
+If you want to connect with me you can reach me at [Twitter](https://www.twitter.com/ubonggjacob) or [Linkedin](https://www.linkedin.com/in/ubonggjacob)
 <br />
 <a href = "https://www.linkedin.com/in/ubonggjacob"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/UbonggJacob"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
-https://replit.com/@UbongJacob/Ubong-Jacob-Zuri-guess-number-game-task?v=1
