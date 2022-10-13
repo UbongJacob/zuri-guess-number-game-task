@@ -29,7 +29,7 @@ const failed = (answer, isFirst) => {
 
   if (retry == 'yes' || retry == 'Y' || retry == 'YES' || retry == 'y' || retry == 'YEs') {
     minRange = 1
-    score = 1
+    userScore = 1
     maxRange = 2
     range()
 
